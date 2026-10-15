@@ -1,4 +1,4 @@
-﻿# API Automation Testing - Mocha
+﻿# API Automation Testing - Mocha`r`n- Visual Studio Code (VS Code)
 
 ## Deskripsi
 Project ini merupakan tugas automation testing API menggunakan JavaScript dan Mocha.
@@ -20,7 +20,7 @@ Setiap request memiliki dua jenis assertion:
 ## Tools
 - JavaScript
 - Node.js
-- Mocha
+- Mocha`r`n- Visual Studio Code (VS Code)
 
 ## How to Run
 Jalankan perintah berikut di terminal:
@@ -32,3 +32,4 @@ npx mocha Tugas.js
 ## Notes
 Token dari proses login digunakan untuk request selanjutnya.
 Endpoint, request body, dan ekspektasi respons mengikuti implementasi API pada file tugas.
+
