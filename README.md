@@ -18,9 +18,10 @@ Setiap request memiliki dua jenis assertion:
 - **Response Body** - Memvalidasi isi respons API.
 
 ## Tools
+- Visual Studio Code (VS Code)
 - JavaScript
 - Node.js
-- Mocha`r`n- Visual Studio Code (VS Code)
+- Mocha
 
 ## How to Run
 Jalankan perintah berikut di terminal:
@@ -32,4 +33,5 @@ npx mocha Tugas.js
 ## Notes
 Token dari proses login digunakan untuk request selanjutnya.
 Endpoint, request body, dan ekspektasi respons mengikuti implementasi API pada file tugas.
+
 
